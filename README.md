@@ -5,7 +5,7 @@ Static landing page example for an Indiana handyman service.
 ## Links
 
 - GitHub: https://github.com/ben-boda/crossroads-handyman-indiana-site
-- Preview: https://crossroads-handyman-indiana-site.netlify.app
+- Preview: https://69b31261e75d4a37e009a686--crossroads-handyman-indiana-site.netlify.app
 
 ## Files
 
