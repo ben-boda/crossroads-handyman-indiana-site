@@ -2,6 +2,11 @@
 
 Static landing page example for an Indiana handyman service.
 
+## Links
+
+- GitHub: https://github.com/ben-boda/crossroads-handyman-indiana-site
+- Preview: https://crossroads-handyman-indiana-site.netlify.app
+
 ## Files
 
 - `index.html`: Single-page marketing site.
